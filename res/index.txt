@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head>
+  <title>知乎日报 - 每天 3 次，每次 7 分钟</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="在中国，资讯类移动应用的人均阅读时长是 5 分钟，而在知乎日报，这个数字是 21。以独有的方式为你提供最高质、最深度、最有收获的阅读体验。" />
+  <link rel="stylesheet" href="/css/base.auto.css" />
+  <link rel="stylesheet" href="/css/new_home_v3.auto.css" />
+  <script src="/js/jquery.1.9.1.js"></script>
+  <script src="/js/new_index_v3/home.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <base target="_blank" />
+  <style>h1,h2,h3 {padding: 0;margin:0}</style>
+  <base target="_blank" />
+ </head>
+ <body class="home">
+  <a href="javascript:;" title="回到顶部" class="back-to-top"></a>
+  <div class="header navbar-fixed-top">
+   <div class="container-fixed-width clearfix">
+    <div class="top-nav-link">
+     <a href="javascript:;" data-offset="470"><span>浏览内容</span></a>
+     <a href="javascript:;" data-offset="0" class="active"><span>App 下载</span></a>
+    </div>
+    <h1 class="logo"><a href="http://daily.zhihu.com/" title="知乎日报" class="link-logo">知乎日报</a></h1>
+   </div>
+  </div>
+  <div class="download">
+   <div class="container-fixed-width">
+    <div class="sample-wrap">
+     <img src="/img/new_home_v3/phone_sample.png" alt="知乎日报应用截屏" class="sample" />
+    </div>
+    <div class="inner">
+     <h2>每天三次 每次七分钟</h2>
+     <div class="info">
+      在中国，资讯类移动应用的人均阅读时长是 5 分钟，而在知乎日报，这个数字是 21。
+     </div>
+     <div class="qr-top">
+      <img src="/img/new_home_v3/qr_top2.png" />
+     </div>
+     <div class="link-buttons">
+      <ul class="donwload-links">
+       <li><a href="https://itunes.apple.com/cn/app/id639087967?mt=8" title="前往 App Store 下载" data-device="iOS" class="iphone"><i class="icon"></i><span>iOS 版</span></a></li>
+       <li class="with-drop-menu"><a href="http://zhstatic.zhihu.com/pkg/store/daily/zhihu-daily-zhihu-2.5.4(392).apk" title="Android 版（本地下载）" data-device="android-local" class="android"><i class="icon"></i><span>Android 版</span></a>
+        <ul>
+         <li><a href="http://www.wandoujia.com/apps/com.zhihu.daily.android" title="通过豌豆荚下载" name="知乎日报" onclick="return wdapi_apkdl_m(this, 'source');" data-device="android-wandoujia" class="wandoujia"><i class="icon"></i><span>豌豆荚</span></a></li>
+         <li><a href="http://apk.hiapk.com/html/2013/09/1752117.html?p=iphone&amp;amp;f_name=%u77E5%u4E4E%u65E5%u62A5&amp;amp;f_version=" title="通过 91 助手下载" name="知乎日报" onclick="return Key.Open(this,'iphone');" data-device="android-91" class="market91"><i class="icon"></i><span>91 市场</span></a></li>
+         <li><a href="http://zhushou.360.cn/detail/index/soft_id/348684" title="前往 360 手机助手下载" data-device="android-360" class="market360"><i class="icon"></i><span>360 市场</span></a></li>
+        </ul></li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="main-content">
+   <div class="container-fixed-width">
+    <div class="section-head">
+     <div class="tip">
+      最新内容
+     </div>
+     <div class="section-head-title">
+      浏览内容
+     </div>
+    </div>
+    <div class="main-content-wrap">
+     <div class="row">
+      <div class="col-lg-4">
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8422675" class="link-button"><img src="http://pic3.zhimg.com/4c59e7fdb16defa95f87a8ad0ebcc98e.jpg" class="preview-image" /><span class="title">小事 &middot; 读书真有用</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8397248" class="link-button"><img src="http://pic4.zhimg.com/42323c2271e49ba50ec27baf1053709f.jpg" class="preview-image" /><span class="title">这对夫妻最大的问题是，「和往常没两样」</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8419871" class="link-button"><img src="http://pic3.zhimg.com/905b4fbead145e8303e8bd4a7f557e8e.jpg" class="preview-image" /><span class="title">你估值 8 亿，我估值只有 4 亿，我们相执不下，就有了对赌协议</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8403531" class="link-button"><img src="http://pic4.zhimg.com/aafdca49159781e56aeead628f2260cb.jpg" class="preview-image" /><span class="title">一辈子都没有突破性成果，这样的科研工作者对社会有什么贡献？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8393071" class="link-button"><img src="http://pic1.zhimg.com/6c417a1380df694abe4bd783abd24dd4.jpg" class="preview-image" /><span class="title">想到奶油蛋糕和冰淇淋就流口水，爱吃甜食根本就是本能嘛</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8413366" class="link-button"><img src="http://pic2.zhimg.com/2d02229ca11cc82718354edac9747195.jpg" class="preview-image" /><span class="title">肖邦、朗朗、李云迪、王羽佳……为什么你知道的音乐家大部分是弹钢琴的？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8410542" class="link-button"><img src="http://pic2.zhimg.com/47318d3aa09e633bf646656b559984ed.jpg" class="preview-image" /><span class="title">给同学寄了一袋实验用的有毒品，快递员偷吃身亡了，我们犯法吗？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8421239" class="link-button"><img src="http://pic1.zhimg.com/52104a75d43eb69c19465bfe0a186ad4.jpg" class="preview-image" /><span class="title">「那个人一看就是个渣男！」</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8405421" class="link-button"><img src="http://pic4.zhimg.com/a9c11632f763f70f2c4dc8ba0ee297db.jpg" class="preview-image" /><span class="title">就因为长得像蝴蝶，它们都被叫成蝴蝶花</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8409877" class="link-button"><img src="http://pic1.zhimg.com/8521fbe8d5435018a2b4cfdf9440d1ec.jpg" class="preview-image" /><span class="title">「红颜多薄命」，还真有此理</span></a>
+        </div>
+       </div>
+      </div>
+      <div class="col-lg-4">
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8392353" class="link-button"><img src="http://pic4.zhimg.com/a020efcc44361abb6b571f9b4ad90d53.jpg" class="preview-image" /><span class="title">大误 &middot; 堪称金庸武学第一秘籍，它究竟是谁创造的？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8397184" class="link-button"><img src="http://pic2.zhimg.com/8f90d60b92e22355a8039b080a01dbd1.jpg" class="preview-image" /><span class="title">想给孩子看些书，怎么看？从哪些书开始？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8415849" class="link-button"><img src="http://pic1.zhimg.com/10e50dd7f0ce6e326d4008f2fb485894.jpg" class="preview-image" /><span class="title">当年科学家用来找黑洞的技术，没想到现在你天天离不开</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8396568" class="link-button"><img src="http://pic2.zhimg.com/847612c21fd6f9f1082996003c2b2849.jpg" class="preview-image" /><span class="title">养老金 8 月入市会带来哪些影响？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8417298" class="link-button"><img src="http://pic3.zhimg.com/027a7866b005a21c3ca9f80eeb682e32.jpg" class="preview-image" /><span class="title">以后，用机器处理经济学问题？现在就已经在用了</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8418516" class="link-button"><img src="http://pic1.zhimg.com/a57a6a907c2c29aa17ce2580602976f0.jpg" class="preview-image" /><span class="title">奶粉新政十月实施，分析下跟普通人有关的其中三条</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8417468" class="link-button"><img src="http://pic1.zhimg.com/784d566146cee228b9c6a1fb88d46988.jpg" class="preview-image" /><span class="title">这一代只会讲广东话的华人，怎么助选希拉里？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8417569" class="link-button"><img src="http://pic4.zhimg.com/1ec4cef95fc9952f7f0746f49f108273.jpg" class="preview-image" /><span class="title">选个好专业 &middot; 法医：我为死者代言</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8419979" class="link-button"><img src="http://pic3.zhimg.com/45801e9b6e8ed50e84e919266e679736.jpg" class="preview-image" /><span class="title">读读日报 24 小时热门 TOP 5 &middot; 魔兽电影首映众生相</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8410236" class="link-button"><img src="http://pic2.zhimg.com/67c6c5c474a941b1876b63bacfd6830d.jpg" class="preview-image" /><span class="title">瞎扯 &middot; 如何正确地吐槽</span></a>
+        </div>
+       </div>
+      </div>
+      <div class="col-lg-4">
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8420037" class="link-button"><img src="http://pic3.zhimg.com/bb0ad9a08cd3914bec66c288f0705476.jpg" class="preview-image" /><span class="title">这里是广告 &middot; 不如我们重头来过</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8404242" class="link-button"><img src="http://pic2.zhimg.com/1cf23d766c14698d5af1313c945615dd.jpg" class="preview-image" /><span class="title">小事 &middot; 我遇到的四个「土豪」</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8418252" class="link-button"><img src="http://pic4.zhimg.com/d69e10eeaa88f84f2b21d8496519a71f.jpg" class="preview-image" /><span class="title">「如果我喜欢的人是女生，你会怎么办？」</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8409339" class="link-button"><img src="http://pic1.zhimg.com/c348a57c81cc5608b9cbbde10ae163c8.jpg" class="preview-image" /><span class="title">经济学和银行业的革命就在眼前吗？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8410506" class="link-button"><img src="http://pic2.zhimg.com/ccf9b7cec896842da011dd2049e14ef9.jpg" class="preview-image" /><span class="title">「我这么做是有苦衷的，希望你能理解」</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8370156" class="link-button"><img src="http://pic1.zhimg.com/deab2edf9be130e50decccbdac242fc8.jpg" class="preview-image" /><span class="title">音乐老师没有教，钢琴中间的踏板是做什么用的？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8372700" class="link-button"><img src="http://pic1.zhimg.com/192bf7cbdb8ba697aeb82209b012c5d4.jpg" class="preview-image" /><span class="title">如果吃了披萨，我们就不能看梵蒂冈博物馆了</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8417489" class="link-button"><img src="http://pic4.zhimg.com/7b2d2f208c9c876bd97339c98f16de7b.jpg" class="preview-image" /><span class="title">参与高考阅卷是怎样的体验？</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8415523" class="link-button"><img src="http://pic4.zhimg.com/b8f09f3e9f35c9a2bb57d11312d7b237.jpg" class="preview-image" /><span class="title">肛门挂线，一个考验勇气的手术，一种直击灵魂的痛苦</span></a>
+        </div>
+       </div>
+       <div class="wrap">
+        <div class="box">
+         <a href="/story/8417233" class="link-button"><img src="http://pic2.zhimg.com/d6f2be6c680f6e515176dcbf9683c0c1.jpg" class="preview-image" /><span class="title">「你说的白是什么白？」「大概是 255，255，255」</span></a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <a href="javascript:;" class="read-more">更多精彩内容可在知乎日报应用中查看</a>
+   </div>
+  </div>
+  <div class="footer">
+   <div class="container-fixed-width">
+    <div class="qr-bottom">
+     <div class="qr-frame">
+      <img src="/img/new_home_v3/qr_bottom.png" />
+     </div>
+     <div class="tip">
+      扫描下载客户端
+     </div>
+    </div>
+    <div class="info-wrap">
+     <p>知乎日报是一款拥有千万用户的资讯类客户端，每日提供来自知乎社区的精选问答，还有国内一流媒体的专栏特稿。</p>
+     <p>主题日报包括动漫、设计、大公司、游戏、财经、电影、电子音乐、互联网安全等丰富内容，为业内人和资深爱好<br />者推荐各领域最精彩文章，满足高质量阅读需求。</p>
+     <p>在知乎日报，告别浮躁，重获阅读的愉悦。</p>
+     <p>&copy; 2016 知乎</p>
+    </div>
+   </div>
+  </div>
+  <script src="http://static.daily.zhihu.com/js/zepto.min.js"></script>
+  <script src="/js/new_home.js"></script>
+  <script src="http://wandoujia.com/api/wdapi.js"></script>
+  <script src="http://zs.91.com/script/api/key121121.js"></script>
+ </body>
+</html>
